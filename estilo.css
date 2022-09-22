@@ -1,0 +1,54 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background: #999;
+}
+#box{
+  width: 40%;
+  height: 250px;
+  margin: 0 auto;
+}
+.entrada{
+  width: 90%;
+  height: 40px;
+  float: left;
+  margin-left: 5%;
+  border:0;
+  border-radius:6px;
+  margin-top: 30px;
+  outline: none;
+  
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size:1.2em;
+  text-align: center;
+}
+input[type=text]{
+  background: #333;
+  color:#ccc;
+}
+#box2{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size:1.2em;
+  color:333;
+  width: 50%;
+  height: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btnVoltar{
+  background-color: transparent;
+  border: none;
+  width: 10%;
+    height: 5%;
+    margin-top: 1%;
+}
+
+.fila{
+  width: 100%;
+  text-align: center;
+  margin: 50px 0;
+  font-family: 'Courier New', Courier, monospace;
+}
